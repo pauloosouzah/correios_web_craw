@@ -7,7 +7,7 @@ import jpaulo.webcrawler.Classes.capturarDados;
 public class RastreamentocrApplication {
 
 	public static void main(String[] args) throws IOException {
-	//1
+	
 	System.out.println("1 - RASTREAR OBJETO");
 	System.out.println("2 - VERFICAR ENDEREÇO COM O CEP");
 	System.out.println("3 - CONSULTAR PRAZO DE ENVIO");
