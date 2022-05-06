@@ -21,7 +21,7 @@ public class RastreamentocrApplication {
 		capturarDados.rastrearObjeto(Passing.codRastreio);
 		break;
 	case 2:
-		System.out.print("Digite o seu código de rastreio: ");
+		System.out.print("Digite o cep que deseja buscar: ");
 		Passing.codCEP = Passing.entrada.nextInt();
 		capturarDados.buscarCEP(Passing.codCEP);
 		break;
